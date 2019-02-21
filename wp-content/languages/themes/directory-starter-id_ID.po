@@ -1,0 +1,635 @@
+# Translation of Themes - Directory Starter in Indonesian
+# This file is distributed under the same license as the Themes - Directory Starter package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-08-03 07:26:39+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: id\n"
+"Project-Id-Version: Themes - Directory Starter\n"
+
+#. Description of the theme
+msgid "Directory Starter is a starter theme for our GeoDirectory plugin (https://wordpress.org/plugins/geodirectory/), perfect to be edited directly or to create your own child themes. Directory Starter is a fully responsive Directory Theme that has been methodically coded to be lightweight and customisable, we have used all the latest WordPress Customizer options allowing you to customise the look and feel of your site with no coding knowledge. Check out the 1st child theme for DS called Supreme directory (https://wpgeodirectory.com/downloads/supreme-directory/)"
+msgstr "Directory Starter adalah tema awal untuk plugin GeoDirectory kami (https://wordpress.org/plugins/geodirectory/), sempurna untuk diedit secara langsung atau untuk membuat tema anak Anda sendiri. Directory Starter adalah Tema Direktori yang sepenuhnya responsif yang telah dikodekan secara metodis menjadi ringan dan dapat disesuaikan, kami telah menggunakan semua opsi Penyesuai WordPress terbaru yang memungkinkan Anda menyesuaikan tampilan dan nuansa situs Anda tanpa pengetahuan pengkodean. Lihat tema anak pertama untuk DS yang disebut direktori Supreme (https://wpgeodirectory.com/downloads/supreme-directory/)"
+
+#. Theme Name of the theme
+msgid "Directory Starter"
+msgstr "Pemula Direktori"
+
+#: lib/admin/customizer.php:1322
+msgid "Enable WooCommerce Sidebar"
+msgstr "Aktifkan Bilah Sisi WooCommerce"
+
+#: lib/sidebars.php:27
+msgid "Sidebar WooCommerce"
+msgstr "Sidebar WooCommerce"
+
+#: lib/sidebars.php:29
+msgid "Sidebar for WooCommerce."
+msgstr "Bilahsisi untuk WooCommerce."
+
+#: lib/init.php:129
+msgid "Copyright &copy; %1$s %2$s %3$s Theme %4$s"
+msgstr "Hak cipta &copy; %1$s %2$s %3$s Theme %4$s"
+
+#: lib/admin/customizer.php:1561
+msgid "Copyright"
+msgstr "Hak Cipta"
+
+#: lib/init.php:130
+msgid " - Powered by %s."
+msgstr " - Didukung oleh %s."
+
+#: lib/config.php:11
+msgid ". All rights reserved."
+msgstr "Hak cipta dilindungi."
+
+#: lib/config.php:11
+msgid "Copyright &copy; "
+msgstr "Hak Cipta &copy; "
+
+#. Template Name of the theme
+msgid "Full Width Page"
+msgstr "Halaman Lebar Penuh"
+
+#: lib/sidebars.php:6
+msgid "Sidebar Blog"
+msgstr "Blog Sidebar"
+
+#: lib/sidebars.php:16
+msgid "Sidebar Page"
+msgstr "Halaman Bilah Sisi"
+
+#: lib/sidebars.php:8
+msgid "Sidebar for blog pages, can be enabled from customizer Body>Sidebar"
+msgstr "Sidebar untuk halaman blog, dapat diaktifkan dari Customizer Body&gt; Sidebar"
+
+#: lib/sidebars.php:18
+msgid "Sidebar for pages."
+msgstr "Bilah sisi untuk halaman."
+
+#: lib/admin/customizer.php:1384 lib/admin/customizer.php:1586
+msgid "Text Color"
+msgstr "Warna Teks Body"
+
+#: lib/init.php:128
+msgid "WordPress"
+msgstr "WordPress"
+
+#: lib/admin/customizer.php:1340
+msgid "Blog Sidebar Position"
+msgstr "Posisi Sidebar Blog"
+
+#: lib/admin/customizer.php:1304
+msgid "Enable Blog Sidebar"
+msgstr "Aktifkan Bilah Sisi Blog"
+
+#: lib/admin/customizer.php:1288 lib/admin/customizer.php:1290
+msgid "Sidebar"
+msgstr "GD Add Listing Right Sidebar"
+
+#: lib/comments.php:36
+msgid "Reply"
+msgstr "Balasan"
+
+#: lib/admin/customizer.php:592
+msgid "Enable Header Top Section"
+msgstr "Aktifkan Bagian Atas Header"
+
+#: lib/admin/customizer.php:1000
+msgid "Header Logo Width"
+msgstr "Lebar Logo Header"
+
+#: lib/admin/customizer.php:1018
+msgid "Header Menu Width"
+msgstr "Lebar Menu Header"
+
+#: lib/admin/customizer.php:883
+msgid "Header Min Height"
+msgstr "Tinggi Header Min"
+
+#: lib/nav.php:8 lib/admin/customizer.php:576 lib/admin/customizer.php:578
+msgid "Header Top"
+msgstr "Header Atas"
+
+#: lib/admin/customizer.php:661
+msgid "Header Top Background Color"
+msgstr "Header Warna Latar Belakang"
+
+#: lib/admin/customizer.php:627
+msgid "Header Top Link Color"
+msgstr "Warna Tautan Tajuk Bagian Atas"
+
+#: lib/admin/customizer.php:644
+msgid "Header Top Link Hover Color"
+msgstr "Warna Tautan Atas Tautan Kepala"
+
+#: lib/admin/customizer.php:610
+msgid "Header Top Text Color"
+msgstr "Warna Teks Utama Header"
+
+#: comments.php:84
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr "Anda harus <a href=\"%s\">Masuk</a> untuk menuliskan komentar."
+
+#: comments.php:83
+msgid "Comment text"
+msgstr "Teks komentar"
+
+#: comments.php:82
+msgid "Post Comment"
+msgstr "Tuliskan Komentar"
+
+#: comments.php:81
+msgid "Leave a Comment"
+msgstr "Tinggalkan komentar"
+
+#: single.php:49
+msgid "Previous post:"
+msgstr "Pos sebelumnya:"
+
+#: single.php:46
+msgid "Next post:"
+msgstr "Pos berikutnya:"
+
+#: lib/sidebars.php:39
+msgid "Sidebar Footer 1"
+msgstr "Sidebar Footer 1"
+
+#: lib/sidebars.php:41
+msgid "Sidebar Footer 1."
+msgstr "Sidebar Footer 1."
+
+#: lib/sidebars.php:51
+msgid "Sidebar Footer 2"
+msgstr "Sidebar Footer 2"
+
+#: lib/sidebars.php:53
+msgid "Sidebar Footer 2."
+msgstr "Sidebar Footer 2."
+
+#: lib/sidebars.php:63
+msgid "Sidebar Footer 3"
+msgstr "Sidebar Footer 3"
+
+#: lib/sidebars.php:65
+msgid "Sidebar Footer 3."
+msgstr "Sidebar Footer 3."
+
+#: lib/sidebars.php:75
+msgid "Sidebar Footer 4"
+msgstr "Sidebar Footer 4"
+
+#: lib/sidebars.php:77
+msgid "Sidebar Footer 4."
+msgstr "Sidebar Footer 4."
+
+#: lib/nav.php:4
+msgid "Footer Links"
+msgstr "Link footer"
+
+#: lib/nav.php:3
+msgid "Primary Menu"
+msgstr "Menu Utama"
+
+#: lib/entrymeta.php:61
+msgid "% Comments"
+msgstr "& Komentar"
+
+#: lib/entrymeta.php:61
+msgid "1 Comment"
+msgstr "1 Komentar"
+
+#: lib/entrymeta.php:61
+msgid "Leave a comment"
+msgstr "Tinggalkan sebuah komentar"
+
+#: lib/entrymeta.php:53
+msgctxt "Used before tag names."
+msgid "Tags"
+msgstr "Tag"
+
+#: lib/entrymeta.php:45
+msgctxt "Used before category names."
+msgid "Categories"
+msgstr "Kategori"
+
+#: lib/entrymeta.php:42 lib/entrymeta.php:50
+msgctxt "Used between list items, there is a space after the comma."
+msgid ", "
+msgstr ", "
+
+#: lib/entrymeta.php:36
+msgctxt "Used before post author name."
+msgid "Author"
+msgstr "Penulis"
+
+#: lib/entrymeta.php:27
+msgctxt "Used before publish date."
+msgid "Posted on"
+msgstr "Diposkan pada"
+
+#: lib/entrymeta.php:10
+msgctxt "Used before post format."
+msgid "Format"
+msgstr "Format"
+
+#: lib/entrymeta.php:4
+msgid "Featured"
+msgstr "Fitur"
+
+#: lib/comments.php:45
+msgid "Your comment is awaiting moderation."
+msgstr "Komentar Anda sedang dimoderasi."
+
+#: lib/comments.php:32
+msgid "%1$s at %2$s"
+msgstr "%1$s pada %2$s"
+
+#: lib/comments.php:14
+msgid "Newer Comments"
+msgstr "Komentar Berikutnya"
+
+#: lib/comments.php:10
+msgid "Older Comments"
+msgstr "Komentar Sebelumnya"
+
+#: lib/comments.php:7
+msgid "Comment navigation"
+msgstr "Navigasi komentar"
+
+#: lib/admin/customizer.php:1733
+msgid "Copyright Padding Bottom"
+msgstr "Padding Bawah Hak Cipta"
+
+#: lib/admin/customizer.php:1717
+msgid "Copyright Padding Top"
+msgstr "Hak Cipta Padding Atas"
+
+#: lib/admin/customizer.php:1662
+msgid "Copyright Section Background Color"
+msgstr "Hak Cipta Bagian Latar Belakang Warna"
+
+#: lib/admin/customizer.php:1678
+msgid "Copyright Section Border Color"
+msgstr "Hak Cipta Bagian Perbatasan Warna"
+
+#: lib/admin/customizer.php:1475
+msgid "Footer Section Background Color"
+msgstr "Bagian Footer Background Warna"
+
+#: lib/admin/customizer.php:1507
+msgid "Footer Section Border Bottom Color"
+msgstr "Footer Section Border Bottom Color"
+
+#: lib/admin/customizer.php:1491
+msgid "Footer Section Border Top Color"
+msgstr "Footer Section Border Top Color"
+
+#: lib/admin/customizer.php:1523
+msgid "Footer Section Box Shadow Color"
+msgstr "Bagian Kaki Kotak Warna Bayangan"
+
+#: lib/admin/customizer.php:1266
+msgid "Line Height"
+msgstr "Tinggi Garis"
+
+#: lib/admin/customizer.php:1249
+msgid "Font Size"
+msgstr "Ukuran Huruf"
+
+#: lib/admin/customizer.php:1232
+msgid "Font Family"
+msgstr "Jenis Huruf"
+
+#: lib/admin/customizer.php:1170
+msgid "Content Box Background Color"
+msgstr "Warna Latar Belakang Kotak Konten"
+
+#: lib/admin/customizer.php:1187
+msgid "Content Box Border Color"
+msgstr "Warna Batas Kotak Konten"
+
+#: lib/admin/customizer.php:1203
+msgid "Content Box Shadow Color"
+msgstr "Kotak Konten Warna Bayangan"
+
+#: lib/admin/customizer.php:1135 lib/admin/customizer.php:1448
+#: lib/admin/customizer.php:1635
+msgid "Link Visited Color"
+msgstr "Tautkan Warna Yang Dikunjungi"
+
+#: lib/admin/customizer.php:1119 lib/admin/customizer.php:1432
+#: lib/admin/customizer.php:1619
+msgid "Link Hover Color"
+msgstr "Warna Tautan (Hover)"
+
+#: lib/admin/customizer.php:1103 lib/admin/customizer.php:1416
+#: lib/admin/customizer.php:1603
+msgid "Link Color"
+msgstr "Warna Taut"
+
+#: lib/admin/customizer.php:1070
+msgid "Body Color"
+msgstr "Warna tubuh"
+
+#: lib/admin/customizer.php:918
+msgid "Logo Margin Left"
+msgstr "Margin Logo Kiri"
+
+#: lib/admin/customizer.php:901
+msgid "Logo Margin Right"
+msgstr "Margin Logo Kanan"
+
+#: lib/admin/customizer.php:935
+msgid "Logo Margin Top"
+msgstr "Margin Logo Atas"
+
+#: lib/admin/customizer.php:967
+msgid "Primary Menu Line Height"
+msgstr "Ketinggian Baris Menu Utama"
+
+#: lib/admin/customizer.php:951
+msgid "Primary Menu Min Height"
+msgstr "Menu Utama Min Tinggi"
+
+#: lib/admin/customizer.php:983
+msgid "Primary Menu Padding Left Right"
+msgstr "Menu Utama Padding Kiri Kanan"
+
+#: lib/admin/customizer.php:1087 lib/admin/customizer.php:1400
+msgid "h1 to h6 Color"
+msgstr "h1 ke h6 Color"
+
+#: lib/admin/customizer.php:518
+msgid "Button Background Color"
+msgstr "Warna Latar Belakang Tombol"
+
+#: lib/admin/customizer.php:552
+msgid "Button Border Color"
+msgstr "Warna Border Tombol"
+
+#: lib/admin/customizer.php:535
+msgid "Button Hover Background Color"
+msgstr "Warna Latar Tombol Hover"
+
+#: lib/admin/customizer.php:776
+msgid "Header Background Color"
+msgstr "Header Warna Latar Belakang"
+
+#: lib/admin/customizer.php:793
+msgid "Header Border Color"
+msgstr "Warna Perbatasan Header"
+
+#: lib/admin/customizer.php:731
+msgid "Header Link Color"
+msgstr "Warna Tautan Header"
+
+#: lib/admin/customizer.php:748
+msgid "Header Link Hover Color"
+msgstr "Warna Tautan Header Hover"
+
+#: lib/admin/customizer.php:809
+msgid "Header Shadow Color"
+msgstr "Warna Bayangan Header"
+
+#: lib/admin/customizer.php:827
+msgid "Primary Menu - Sub menu Background Color"
+msgstr "Menu Utama - Sub menu Warna Latar"
+
+#: lib/admin/customizer.php:844
+msgid "Primary Menu - Sub menu Background hover Color"
+msgstr "Menu Utama - Sub menu Background hover Color"
+
+#: lib/admin/customizer.php:684
+msgid "Upload a logo to replace the default site name and description in the header"
+msgstr "Unggah logo untuk mengganti nama dan deskripsi situs default di header"
+
+#: lib/admin/customizer.php:501
+msgid "Button Text Color"
+msgstr "Warna Tombol Teks"
+
+#: lib/admin/customizer.php:303
+msgid "Alert Error Background Color"
+msgstr "Peringatan Kesalahan Warna Latar Belakang"
+
+#: lib/admin/customizer.php:439
+msgid "Alert Error Border Color"
+msgstr "Tanda Peringatan Warna Batas"
+
+#: lib/admin/customizer.php:371
+msgid "Alert Error Text Color"
+msgstr "Tanda Peringatan Warna Teks"
+
+#: lib/admin/customizer.php:337
+msgid "Alert Info Background Color"
+msgstr "Warna Latar Belakang Info Siaga"
+
+#: lib/admin/customizer.php:473
+msgid "Alert Info Border Color"
+msgstr "Info Ketinggian Info Warna"
+
+#: lib/admin/customizer.php:405
+msgid "Alert Info Text Color"
+msgstr "Warna Teks Info Siaga"
+
+#: lib/admin/customizer.php:320
+msgid "Alert Success Background Color"
+msgstr "Warna Background Siaga Sukses"
+
+#: lib/admin/customizer.php:456
+msgid "Alert Success Border Color"
+msgstr "Warna Perbatasan Keberhasilan Siaga"
+
+#: lib/admin/customizer.php:388
+msgid "Alert Success Text Color"
+msgstr "Alert Success Text Color"
+
+#: lib/admin/customizer.php:286
+msgid "Alert Warning Background Color"
+msgstr "Peringatan Warna Latar Belakang Peringatan"
+
+#: lib/admin/customizer.php:422
+msgid "Alert Warning Border Color"
+msgstr "Peringatan Peringatan Warna Perbatasan"
+
+#: lib/admin/customizer.php:354
+msgid "Alert Warning Text Color"
+msgstr "Warna Teks Peringatan Peringatan"
+
+#: lib/admin/customizer.php:247
+msgid "Container Margin Left"
+msgstr "Margin Wadah Ke Kiri"
+
+#: lib/admin/customizer.php:230
+msgid "Container Margin Right"
+msgstr "Margin Container Kanan"
+
+#: lib/admin/customizer.php:213
+msgid "Container Padding Left"
+msgstr "Penampung Kontainer Kiri"
+
+#: lib/admin/customizer.php:196
+msgid "Container Padding Right"
+msgstr "Penempatan Kontainer Benar"
+
+#: lib/admin/customizer.php:180
+msgid "Desktop Container Width"
+msgstr "Lebar Dekstop"
+
+#: lib/admin/customizer.php:182 lib/admin/customizer.php:199
+#: lib/admin/customizer.php:216 lib/admin/customizer.php:233
+#: lib/admin/customizer.php:250 lib/admin/customizer.php:289
+#: lib/admin/customizer.php:306 lib/admin/customizer.php:323
+#: lib/admin/customizer.php:340 lib/admin/customizer.php:357
+#: lib/admin/customizer.php:374 lib/admin/customizer.php:391
+#: lib/admin/customizer.php:408 lib/admin/customizer.php:425
+#: lib/admin/customizer.php:442 lib/admin/customizer.php:459
+#: lib/admin/customizer.php:476 lib/admin/customizer.php:504
+#: lib/admin/customizer.php:521 lib/admin/customizer.php:538
+#: lib/admin/customizer.php:555 lib/admin/customizer.php:596
+#: lib/admin/customizer.php:613 lib/admin/customizer.php:630
+#: lib/admin/customizer.php:647 lib/admin/customizer.php:664
+#: lib/admin/customizer.php:734 lib/admin/customizer.php:751
+#: lib/admin/customizer.php:779 lib/admin/customizer.php:796
+#: lib/admin/customizer.php:813 lib/admin/customizer.php:830
+#: lib/admin/customizer.php:847 lib/admin/customizer.php:887
+#: lib/admin/customizer.php:904 lib/admin/customizer.php:921
+#: lib/admin/customizer.php:938 lib/admin/customizer.php:954
+#: lib/admin/customizer.php:970 lib/admin/customizer.php:986
+#: lib/admin/customizer.php:1004 lib/admin/customizer.php:1022
+#: lib/admin/customizer.php:1073 lib/admin/customizer.php:1090
+#: lib/admin/customizer.php:1106 lib/admin/customizer.php:1122
+#: lib/admin/customizer.php:1138 lib/admin/customizer.php:1173
+#: lib/admin/customizer.php:1190 lib/admin/customizer.php:1207
+#: lib/admin/customizer.php:1235 lib/admin/customizer.php:1252
+#: lib/admin/customizer.php:1269 lib/admin/customizer.php:1308
+#: lib/admin/customizer.php:1326 lib/admin/customizer.php:1348
+#: lib/admin/customizer.php:1387 lib/admin/customizer.php:1403
+#: lib/admin/customizer.php:1419 lib/admin/customizer.php:1435
+#: lib/admin/customizer.php:1451 lib/admin/customizer.php:1478
+#: lib/admin/customizer.php:1494 lib/admin/customizer.php:1510
+#: lib/admin/customizer.php:1526 lib/admin/customizer.php:1589
+#: lib/admin/customizer.php:1606 lib/admin/customizer.php:1622
+#: lib/admin/customizer.php:1638 lib/admin/customizer.php:1665
+#: lib/admin/customizer.php:1681 lib/admin/customizer.php:1720
+#: lib/admin/customizer.php:1736
+msgid "Default: %s"
+msgstr "Default: %s"
+
+#: lib/admin/customizer.php:855 lib/admin/customizer.php:857
+#: lib/admin/customizer.php:1215 lib/admin/customizer.php:1217
+#: lib/admin/customizer.php:1535 lib/admin/customizer.php:1537
+#: lib/admin/customizer.php:1689 lib/admin/customizer.php:1691
+msgid "Typography"
+msgstr "Tipografi"
+
+#: lib/admin/customizer.php:759 lib/admin/customizer.php:761
+#: lib/admin/customizer.php:1147 lib/admin/customizer.php:1149
+#: lib/admin/customizer.php:1459 lib/admin/customizer.php:1461
+#: lib/admin/customizer.php:1646 lib/admin/customizer.php:1648
+msgid "Background Colors"
+msgstr "Warna Latar"
+
+#: lib/admin/customizer.php:708 lib/admin/customizer.php:710
+#: lib/admin/customizer.php:1053 lib/admin/customizer.php:1055
+#: lib/admin/customizer.php:1368 lib/admin/customizer.php:1370
+#: lib/admin/customizer.php:1570 lib/admin/customizer.php:1572
+msgid "Text Colors"
+msgstr "Warna Teks"
+
+#: lib/admin/customizer.php:672 lib/admin/customizer.php:674
+#: lib/admin/customizer.php:687
+msgid "Logo"
+msgstr "Logo"
+
+#: lib/admin/customizer.php:269 lib/admin/customizer.php:271
+msgid "Alert Colors"
+msgstr "Warna peringatan"
+
+#: lib/admin/customizer.php:484 lib/admin/customizer.php:486
+msgid "Button Colors"
+msgstr "Warna Tombol"
+
+#: lib/admin/customizer.php:162 lib/admin/customizer.php:164
+#: lib/admin/customizer.php:866 lib/admin/customizer.php:868
+#: lib/admin/customizer.php:1277 lib/admin/customizer.php:1279
+#: lib/admin/customizer.php:1546 lib/admin/customizer.php:1548
+#: lib/admin/customizer.php:1701 lib/admin/customizer.php:1703
+msgid "Spacing"
+msgstr "Jarak"
+
+#: lib/admin/customizer.php:1359
+msgid "Footer"
+msgstr "Footer"
+
+#: lib/admin/customizer.php:1033
+msgid "Body"
+msgstr "Body"
+
+#: lib/admin/customizer.php:567
+msgid "Header"
+msgstr "Judul"
+
+#: lib/admin/customizer.php:131
+msgid "General"
+msgstr "Umum"
+
+#: content.php:37 lib/comments.php:34
+msgid "Edit"
+msgstr "Mengedit"
+
+#: content.php:28
+msgid "Pages:"
+msgstr "Laman:"
+
+#: comments.php:63
+msgid "Comments are closed."
+msgstr "Komentar ditutup."
+
+#: comments.php:27
+msgctxt "comments title"
+msgid "1 Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] "1 Comment"
+msgstr[1] "%1$s Komentar"
+
+#: index.php:44 archive.php:44 single.php:45
+msgid "Next"
+msgstr "Selanjutnya"
+
+#: index.php:43 archive.php:43 single.php:48
+msgid "Previous"
+msgstr "Sebelumnya"
+
+#: woocommerce.php:28 index.php:28 archive.php:28 page.php:20 single.php:28
+#: page_full-width.php:18
+msgid "Sorry, no results were found."
+msgstr "Maaf, yang anda cari tidak ditemukan."
+
+#: 404.php:12
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Sepertinya tidak ditemukan apapun di sini. Mungkin coba pencarian?"
+
+#: 404.php:11
+msgid "This is somewhat embarrassing, isn&rsquo;t it?"
+msgstr "Maaf, agak mengecewakan ya?"
+
+#: 404.php:6
+msgid "Not Found"
+msgstr "Tidak ditemukan"
+
+#. Author of the theme
+msgid "GeoDirectory Team"
+msgstr "Tim GeoDirectory"
+
+#. Author URI of the theme
+msgid "https://wpgeodirectory.com/"
+msgstr "https://wpgeodirectory.com/"
+
+#. Theme URI of the theme
+msgid "https://wpgeodirectory.com/directory-starter/"
+msgstr "https://wpgeodirectory.com/directory-starter/"
