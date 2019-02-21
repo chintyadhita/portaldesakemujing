@@ -2,3 +2,5 @@
 
 2019-02-21T01:53:48+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp2\htdocs\wordpress\wp-includes\Requests\IRI.php on line 66
 
+2019-02-21T03:44:08+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp2\htdocs\wordpress\wp-content\themes\hestia\inc\compatibility\child-themes\class-hestia-child.php on line 11
+
